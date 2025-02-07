@@ -18,7 +18,7 @@ let textoNumero = "2413";
 
 // Metodo 1: Usando Number()
 let num1 = Number(textoNumero);
-console.log("Método 1 (Number()):", num1, typeof num1);
+console.log("Metodo 1 (Number()):", num1, typeof num1);
 
 // Metodo 2: Usando parseInt()
 let num2 = parseInt(textoNumero);
